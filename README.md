@@ -1,5 +1,5 @@
 ### Relational Database Design & Customer Segment Query
-**Tools: PostgreSQL, SQL, pgAdmin** | M.S. Data Analytics Project (D205)
+**Tools: PostgreSQL, SQL, pgAdmin** | M.S. Data Analytics Project (D205 - Data Aquisition)
 
 A database project that extended an existing customer database with new service data and answered a business question with SQL.
  
