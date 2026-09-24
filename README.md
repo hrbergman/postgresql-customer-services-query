@@ -1,5 +1,5 @@
-### postgresql-customer-services-query
-**PostgreSQL, SQL, pgAdmin** | M.S. Data Analytics Project
+### Relational Database Design & Customer Segment Query
+**Tools: PostgreSQL, SQL, pgAdmin** | M.S. Data Analytics Project
 
 A database project that extended an existing customer database with new service data and answered a business question with SQL.
  
