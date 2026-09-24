@@ -11,4 +11,4 @@ A database project that extended an existing customer database with new service 
 | 
 [Slideshow](https://github.com/hrbergman/postgresql-customer-services-query/blob/main/postgresql-customer-services-query/data-acquisition-slideshow.pdf)
 | 
-[Video](https://www.youtube.com/watch?v=2FI8G_kEFqw&feature=youtu.be)
+[Video Presentation](https://www.youtube.com/watch?v=2FI8G_kEFqw&feature=youtu.be)
